@@ -1,3 +1,11 @@
+# Calculadora de IMC en Python
+
+## Funcionalidades
+- Entrada de datos desde teclado
+- Validacion de entrada
+- Calculo de IMC
+- Mensaje personalizado segun el resultado
+
 Uso del programa:
 
 1- Ingrese su altura
